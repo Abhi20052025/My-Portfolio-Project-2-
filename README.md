@@ -80,6 +80,4 @@ http://127.0.0.1:5500/index.html#Design
 * Integrate a working contact form with backend
 * Deploy online using GitHub Pages or Vercel
 
-```
-Do you want me to do that?
-```
+...
